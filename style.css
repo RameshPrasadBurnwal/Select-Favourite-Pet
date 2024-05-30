@@ -1,0 +1,13 @@
+/*-----------Style sheet for html document--------------*/
+
+.bg-container{
+    background-image: radial-gradient(yellow,red,green);
+    background-size:cover;
+}
+
+.heading{
+    color:aqua;
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+}
